@@ -21,6 +21,13 @@ text-align: left;
 
 }
 
+#text-box {
+
+    height: 25vh;
+    width: 100vw;
+    background-color: white;
+}
+
 .row {
     height: 15vh;
     width: 100vw;
